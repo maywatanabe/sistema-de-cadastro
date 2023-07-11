@@ -4,6 +4,6 @@
 
 Para rodar esse programa na sua máquina, por favor type:
 ```
-npm install react
+node app js
 ```
 
