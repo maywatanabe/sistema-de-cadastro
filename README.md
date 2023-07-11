@@ -7,3 +7,4 @@ Para rodar esse programa na sua máquina, por favor type:
 node app js
 ```
 
+;)
